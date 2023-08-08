@@ -1,0 +1,53 @@
+.colr{
+    background-color: rgb(210,81,30);
+}
+.pro{
+    text-align: center;
+    color: azure;
+}
+.mo{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+}
+.share{
+    text-align: center;
+    color: azure;
+    font-size: 24px;
+}
+.ui{
+    color: azure;
+}
+body{
+    background-color: rgb(232,153,96);
+}
+.col2{
+    background-color: white;
+}
+.thomas{
+    font-weight: 400;
+}
+.post{
+    font-size: 28px;
+    color: rgb(152,89,44);
+}
+.extra{
+    font-weight: 600;
+}
+.button{
+   padding-left: 42%;
+   padding-right: 42%;
+   padding-top: 10px;
+   padding-bottom: 10px; 
+   text-align: center;
+   border: 1px solid coral;
+   border-radius: 20px;
+   background-color: white;
+}
+.charge{
+    color: coral;
+}
+.form-control{
+    border-radius: 20px;
+    background-color: rgb(219,218,218);
+}
