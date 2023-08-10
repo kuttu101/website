@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(255, 200, 80) !important;
+}
 .colr{
     background-color: rgb(210,81,30);
 }
@@ -19,9 +22,7 @@
 .ui{
     color: azure;
 }
-body{
-    background-color: rgb(232,153,96);
-}
+
 .col2{
     background-color: white;
 }
@@ -52,7 +53,6 @@ body{
     margin-left: 250px;
 }
 .one{
-    background-color: rgb(255, 200, 80);
     padding-bottom: 40px;
     padding-top: 2px;
 }
@@ -60,4 +60,7 @@ input.f1{
     border-radius: 50px;
     background-color: rgb(217, 223, 223);
     padding-right: 10%;
+}
+.two{
+    padding-top: 120px;
 }
